@@ -1,17 +1,3 @@
-# Python
+venv/
 _pycache_/
 *.pyc
-
-# Virtual environment
-venv/
-.env/
-
-# VS Code
-.vscode/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Uploaded PDFs
-uploads/
